@@ -1,0 +1,556 @@
+fileFormatVersion: 2
+guid: 41a17de17ccbc9940bc32f0be0829c2b
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: askerAttack_Frame_0
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 157
+      width: 45
+      height: 63
+    spriteID: 7b2bf8ce450c931409cd727ea3b12e52
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 157}
+  - name: askerAttack_Frame_1
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 315
+      width: 35
+      height: 63
+    spriteID: 7d32c0aa5abb8da4a9f2a9f64bd37e9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 315}
+  - name: askerAttack_Frame_2
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 386
+      width: 35
+      height: 63
+    spriteID: fd8c5439f123b2c47b4b5ad665869784
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 386}
+  - name: askerAttack_Frame_3
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 4
+      width: 35
+      height: 63
+    spriteID: 6e15027e90142d44fabea4ca44d14a3f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 4}
+  - name: askerAttack_Frame_4
+    originalName: 
+    pivot: {x: 0.43750003, y: -0.04761905}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 146
+      width: 32
+      height: 63
+    spriteID: cc88c520048ca764d8e223a4cb76b9ed
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 146}
+  - name: askerAttack_Frame_5
+    originalName: 
+    pivot: {x: 0.27272728, y: -0.1}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 155
+      width: 33
+      height: 70
+    spriteID: 6bd0b5fc7a415494c852bc9ee263df1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 155}
+  - name: askerAttack_Frame_6
+    originalName: 
+    pivot: {x: 0.3243243, y: -0.11267606}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 380
+      width: 37
+      height: 71
+    spriteID: 853309aeb63143844b4a7ec2ccb4be0f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 380}
+  - name: askerAttack_Frame_7
+    originalName: 
+    pivot: {x: 0.38636363, y: -0.1369863}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 76
+      width: 44
+      height: 73
+    spriteID: cca00d445093e59499a8dbed85ee9f32
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 76}
+  - name: askerAttack_Frame_8
+    originalName: 
+    pivot: {x: 0.609375, y: -0.125}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 64
+      height: 64
+    spriteID: 79f474dd1ef450a439db34b7f7765921
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: askerAttack_Frame_9
+    originalName: 
+    pivot: {x: 0.63076925, y: -0.1147541}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 4
+      width: 65
+      height: 61
+    spriteID: b45cede0499b94e45a3fd2fc66b99ad8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 4}
+  - name: askerAttack_Frame_10
+    originalName: 
+    pivot: {x: 0.4473684, y: -0.04109589}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 299
+      width: 38
+      height: 73
+    spriteID: 2e93a6021298cf44bb8cfc293aeafae9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 299}
+  - name: askerAttack_Frame_11
+    originalName: 
+    pivot: {x: 0.36363634, y: -0.067567565}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 73
+      width: 33
+      height: 74
+    spriteID: 30c97dd45e4954649868038ecbee65cf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 73}
+  - name: askerAttack_Frame_12
+    originalName: 
+    pivot: {x: 0.3, y: -0.067567565}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 76
+      y: 233
+      width: 30
+      height: 74
+    spriteID: 4396f1839dc628740b07bd1aeead3c57
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 76, y: 233}
+  - name: askerAttack_Frame_13
+    originalName: 
+    pivot: {x: 0.40000004, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 149
+      y: 75
+      width: 35
+      height: 63
+    spriteID: f6740c1014c9a2e4fafe838164b14db5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 149, y: 75}
+  - name: askerAttack_Frame_14
+    originalName: 
+    pivot: {x: 0.5333333, y: -0.07936508}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 228
+      width: 45
+      height: 63
+    spriteID: ad49d5e8e4c1702448274c81889bc0f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 228}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1763664076
+    name: askerAttack
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: askerAttack_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 28
+        y: 5
+        width: 45
+        height: 63
+      spriteId: 7b2bf8ce450c931409cd727ea3b12e52
+    - name: askerAttack_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 38
+        y: 5
+        width: 35
+        height: 63
+      spriteId: 7d32c0aa5abb8da4a9f2a9f64bd37e9c
+    - name: askerAttack_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 38
+        y: 5
+        width: 35
+        height: 63
+      spriteId: fd8c5439f123b2c47b4b5ad665869784
+    - name: askerAttack_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 38
+        y: 5
+        width: 35
+        height: 63
+      spriteId: 6e15027e90142d44fabea4ca44d14a3f
+    - name: askerAttack_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 38
+        y: 3
+        width: 32
+        height: 63
+      spriteId: cc88c520048ca764d8e223a4cb76b9ed
+    - name: askerAttack_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 43
+        y: 7
+        width: 33
+        height: 70
+      spriteId: 6bd0b5fc7a415494c852bc9ee263df1a
+    - name: askerAttack_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 40
+        y: 8
+        width: 37
+        height: 71
+      spriteId: 853309aeb63143844b4a7ec2ccb4be0f
+    - name: askerAttack_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 35
+        y: 10
+        width: 44
+        height: 73
+      spriteId: cca00d445093e59499a8dbed85ee9f32
+    - name: askerAttack_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 13
+        y: 8
+        width: 64
+        height: 64
+      spriteId: 79f474dd1ef450a439db34b7f7765921
+    - name: askerAttack_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 11
+        y: 7
+        width: 65
+        height: 61
+      spriteId: b45cede0499b94e45a3fd2fc66b99ad8
+    - name: askerAttack_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 35
+        y: 3
+        width: 38
+        height: 73
+      spriteId: 2e93a6021298cf44bb8cfc293aeafae9
+    - name: askerAttack_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 40
+        y: 5
+        width: 33
+        height: 74
+      spriteId: 30c97dd45e4954649868038ecbee65cf
+    - name: askerAttack_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 43
+        y: 5
+        width: 30
+        height: 74
+      spriteId: 4396f1839dc628740b07bd1aeead3c57
+    - name: askerAttack_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 38
+        y: 5
+        width: 35
+        height: 63
+      spriteId: f6740c1014c9a2e4fafe838164b14db5
+    - name: askerAttack_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 28
+        y: 5
+        width: 45
+        height: 63
+      spriteId: ad49d5e8e4c1702448274c81889bc0f1
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 104, y: 85}

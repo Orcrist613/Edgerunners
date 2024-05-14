@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: b2f6bf8f20637774da72b0a96b6c9599
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 398
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c907f84aa2fa724098dec51ee4b88a5
+      internalID: 2065371997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_1
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 398
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5368cd3109f94f142adc33c6b03838fa
+      internalID: -1592490168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 398
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c913b652533d9644b59dac521041af8
+      internalID: 1392175569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 398
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934aee66d39cbac4c820d5b58ca3dc70
+      internalID: -903867476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_4
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 398
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0199fc7ed3334bb1eb7438810212c
+      internalID: -832055495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_5
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 398
+        width: 54
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be4496f9ac174849ad3e0c82b4fdb0c
+      internalID: -1425861957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_6
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 398
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da73df7a39884df4cbb3fdc069654e90
+      internalID: 139773248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_7
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 398
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2e994cff3b303418de83da44ea1636
+      internalID: 1803611307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 398
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193ede158fa3114f980476d45d8cf3c
+      internalID: -876924880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 398
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4923968d55f5754db7af38d99552d5e
+      internalID: -146942001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 270
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6f5b24331ccb640b865f3ddadc1bd5
+      internalID: 602803050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 270
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a3d8d29e10ead4e857a4d1961bef9d
+      internalID: 758070999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 270
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758ed6a177397a9418b0a536b2d703b3
+      internalID: 489499426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_13
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 270
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9141c1605161f394ebf66f78652b453c
+      internalID: 2000930304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 270
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00bf1bcb633e464aaea921405fcae6f
+      internalID: -1321265046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 270
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358aaa503a29b3949b53970bbadc3f68
+      internalID: 1359729842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_16
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 270
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d71c4fad0c96af409e84b03230715d6
+      internalID: 57307231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_17
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 270
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6d6a726b8077b4d937c65360f8aae4
+      internalID: 435887240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_18
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 270
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43227964eaa5c3e4987a78a05ff93b63
+      internalID: 489944826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_19
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 270
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007797301a0742e479d68e7fb3d7117b
+      internalID: -587573303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 142
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62678178b519ee42b293fb96710342f
+      internalID: -957169950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 142
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0914ff5b92ebefc4bb0bfa9770118e4f
+      internalID: -1628852607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 142
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b11c3809f7da24ba53109ec35da333
+      internalID: 931893082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_23
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 142
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938240159146930439ac49001377ffa5
+      internalID: -1336866590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_24
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 142
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab38e83f4544b146b9d7156df94156a
+      internalID: -149507934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_25
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 142
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3f6134d9042e746ae7ffa268f93bbb
+      internalID: -1645032882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_26
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 142
+        width: 46
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c42ce12b3779d40889f0bd0bf2350e
+      internalID: 555376116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_27
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 142
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9cc717fee613d439d128e09693c375
+      internalID: -2030060214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_28
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 142
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f149abc9d677e144a23cd59272a0d00
+      internalID: -435762482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_29
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 142
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d50b41980575d549ae5e8813951d7b7
+      internalID: -1681888668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 14
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf0af7b474e5647a80c57de683dc66
+      internalID: -37077263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_31
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeed395430ef3cb4baa89396ef25991b
+      internalID: 1131314700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_32
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 14
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd6c8e2f63f58f49b9451881638c5a2
+      internalID: 399698431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_33
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 14
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc912f7cf6a6c4fa29326802b055f9
+      internalID: 629396478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 14
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670fd2e8fad015541ba18d0ea0ec8af3
+      internalID: 340069430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_35
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 14
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461456384cd166d4ba6fbea03b999675
+      internalID: -1792162356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 14
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edd06708faba98479565e9326fce37a
+      internalID: 304596057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 14
+        width: 46
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50480226ac0407d449c8afc1ab3fb2e0
+      internalID: 1565454309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_38
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 14
+        width: 46
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237ffddd6ec99854297a2b57a3ee488e
+      internalID: -1632398548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 64X128_Walking_Free_39
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 14
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5944c66ff64408a4fa2f6cdae5f7eb4a
+      internalID: -1018202901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      64X128_Walking_Free_0: 2065371997
+      64X128_Walking_Free_1: -1592490168
+      64X128_Walking_Free_10: 602803050
+      64X128_Walking_Free_11: 758070999
+      64X128_Walking_Free_12: 489499426
+      64X128_Walking_Free_13: 2000930304
+      64X128_Walking_Free_14: -1321265046
+      64X128_Walking_Free_15: 1359729842
+      64X128_Walking_Free_16: 57307231
+      64X128_Walking_Free_17: 435887240
+      64X128_Walking_Free_18: 489944826
+      64X128_Walking_Free_19: -587573303
+      64X128_Walking_Free_2: 1392175569
+      64X128_Walking_Free_20: -957169950
+      64X128_Walking_Free_21: -1628852607
+      64X128_Walking_Free_22: 931893082
+      64X128_Walking_Free_23: -1336866590
+      64X128_Walking_Free_24: -149507934
+      64X128_Walking_Free_25: -1645032882
+      64X128_Walking_Free_26: 555376116
+      64X128_Walking_Free_27: -2030060214
+      64X128_Walking_Free_28: -435762482
+      64X128_Walking_Free_29: -1681888668
+      64X128_Walking_Free_3: -903867476
+      64X128_Walking_Free_30: -37077263
+      64X128_Walking_Free_31: 1131314700
+      64X128_Walking_Free_32: 399698431
+      64X128_Walking_Free_33: 629396478
+      64X128_Walking_Free_34: 340069430
+      64X128_Walking_Free_35: -1792162356
+      64X128_Walking_Free_36: 304596057
+      64X128_Walking_Free_37: 1565454309
+      64X128_Walking_Free_38: -1632398548
+      64X128_Walking_Free_39: -1018202901
+      64X128_Walking_Free_4: -832055495
+      64X128_Walking_Free_5: -1425861957
+      64X128_Walking_Free_6: 139773248
+      64X128_Walking_Free_7: 1803611307
+      64X128_Walking_Free_8: -876924880
+      64X128_Walking_Free_9: -146942001
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
